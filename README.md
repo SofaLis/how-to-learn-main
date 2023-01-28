@@ -26,6 +26,8 @@ ___
 ___
 
 
-## [Бриф, на основе которого стоился сайт](https://code.s3.yandex.net/web-developer/project-1/sprint-1-brief.pdf)
-## [Cссылка на GitHub Pages](https://sofalis.github.io/how-to-learn-main/)
+### :camera: [Бриф, на основе которого стоился сайт](https://code.s3.yandex.net/web-developer/project-1/sprint-1-brief.pdf)
+### :computer: [Cссылка на GitHub Pages](https://sofalis.github.io/how-to-learn-main/)
+
+___
 
